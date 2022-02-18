@@ -173,11 +173,11 @@ oneIPL
   * - Version
     - Date
     - View
-  * - `oneIPL v0.5`_
-    - 2021-10-8
-    - `HTML <https://spec.oneapi.io/oneipl/latest/index.html>`__
   * - `oneIPL v0.6`_
     - 2022-02-18
+    - `HTML <https://spec.oneapi.io/oneipl/latest/index.html>`__
+  * - `oneIPL v0.5`_
+    - 2021-10-8
     - `HTML <https://spec.oneapi.io/oneipl/latest/index.html>`__
 
 
